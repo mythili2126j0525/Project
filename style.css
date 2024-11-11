@@ -1,0 +1,214 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.watch{
+    
+    border: 1px solid rgb(red, green, blue);
+    width: 300px;
+    
+    padding: 10px 0px 0px 0px;
+    background-color: rgb(199, 202,199);
+    box-shadow: 0px 3px 30px 3px;
+    border-radius: 5px;
+}
+.image-container{
+    display: grid;
+    justify-content: center;
+}
+
+.w-{
+    width: 200px;
+    height: 200px;
+    padding-top: 30px;
+}
+.wat{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: black;
+}
+.wa{
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
+    height: 50px;
+}
+.w {
+    text-align: center;
+    font-size: 25px;
+    color: rosybrown;
+    padding-bottom: 1px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.w1{
+    text-align: center;
+    font-size: 25px;
+    color: blue
+    padding-bottom: 1px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.w2{
+    text-align: center;
+    font-size: 25px;
+    color: orangered
+    padding-bottom: 1px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.shoe{
+    border: 1px solid rgb(red, green, blue);
+    width: 500px;
+    margin: 20px 60px 0px 70px;
+    padding: 40px 0px 0px 0px;
+    background-color: rgb(199, 202,199);
+    box-shadow: 0px 3px 30px 3px;
+    border-radius: 5px;
+}
+.s-{
+    width: 200px;
+    padding-left: 50px;
+    padding-top:20px;
+    padding-bottom: 16px;
+}
+.sho{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    font-family:  Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.shu{
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    height: 100px;
+}
+.shuu{
+    text-align: center;
+    font-size: 25px;
+    color: blue;
+    padding-bottom: 1px;
+    font-family:  Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.num1{
+    font-size: 20px;
+    color: yellow;
+    padding-left: 77px;
+}
+.num2{
+    font-size: 18px;
+    color: yellow;
+}
+.num3{
+    font-size: 20px;
+    color: yellow;
+}
+.num4{
+    font-size: 18px;
+    color: yellow
+}
+.num5{
+    font-size: 18px;
+    color: gray;
+}
+.t-shirt{
+    border: 1px solid rgb(red, green, blue);
+    width: 300px;
+    margin: 20px 40px 0px 70px;
+    padding: 20px 0px 5px 7px;
+    background-color: rgb(199, 202,199);
+    box-shadow: 0px 3px 30px 3px;
+    border-radius: 5px;
+}
+.t-{
+    width: 200px;
+    padding-left: 60px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.t{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    font-family:  Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.shir{
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    height: 100px;
+}   
+.shi{
+    text-align: center;
+    font-size: 25px;
+    color: orangered;
+    padding-top: 15px;
+
+}
+.a{
+    width: 90%;
+    padding: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 2px solid green;
+    background-color: green;
+    border-radius: 5px;
+    margin: 10px;
+}
+.b{
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 5px solid green;
+    background-color: green;
+    border-radius: 5px;
+    margin: 5px;
+}
+.noo1{
+    font-size: 20px;
+    color: yellow;
+    padding-left: 70px;
+}
+.noo2{
+    font-size: 20px;
+    color: yellow;
+}
+.noo3{
+    font-size: 20px;
+    color: yellow;
+}
+.noo4{
+    font-size: 20px;
+    color: gray;
+}
+.noo5{
+    font-size: 20px;
+    color: gray;
+}
+.no1{
+    font-size: 20px;
+    color: yellow;
+    padding-left: 70px;
+}
+.no2{
+    font-size: 20px;
+    color: yellow;
+}
+.no3{
+    font-size: 20px;
+    color: gray;
+}
+.no4{
+    font-size: 20px;
+    color: gray;
+}
+.no5{
+    font-size: 20px;
+    color: gray;
+}
